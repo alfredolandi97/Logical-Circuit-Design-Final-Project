@@ -1,0 +1,9 @@
+*.log
+/Materiale utile
+/Registrazioni
+*.aux
+*.synctex.gz
+/Progetti vecchi VHDL
+/Esercitazioni
+/Specifiche
+/project_reti_logiche
